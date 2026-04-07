@@ -16,7 +16,7 @@ This project demonstrates frontend development skills along with API integration
 - 🔄 Easy-to-use input fields and dropdowns  
 
 ---
-
+<img width="751" height="670" alt="Screenshot 2026-04-07 121150" src="https://github.com/user-attachments/assets/bf5d6465-175f-4b50-9512-671671f023c1" />
 ## 🧰 Tech Stack
 
 - HTML5  
@@ -68,4 +68,4 @@ This project was built to improve understanding of:
 ## 📝 License
 
 This project is open source and available under the MIT License.
-<img width="751" height="670" alt="Screenshot 2026-04-07 121150" src="https://github.com/user-attachments/assets/bf5d6465-175f-4b50-9512-671671f023c1" />
+
